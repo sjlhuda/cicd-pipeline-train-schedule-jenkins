@@ -15,3 +15,4 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 the quick brown fox jumped over the lazy dog.
+And then I went on vacation to Cozumel and we danced the night away.
